@@ -1,0 +1,3 @@
+./wrong-generation-frontend/node_modules
+./wrong-generation-backend/node_modules
+./wrong-generation-backend/.env

@@ -1,0 +1,510 @@
+{
+    "charts": [
+        {
+            "date": "1962-01-06",
+            "entries": [
+            {
+            "position": 1,
+            "artist": "The Tokens",
+            "song": "The Lion Sleeps Tonight"
+            },
+            {
+            "position": 2,
+            "artist": "Chubby Checker",
+            "song": "The Twist"
+            },
+            {
+            "position": 3,
+            "artist": "Bobby Vee",
+            "song": "Run To Him"
+            },
+            {
+            "position": 4,
+            "artist": "Joey Dee & the Starliters",
+            "song": "Peppermint Twist - Part I"
+            },
+            {
+            "position": 5,
+            "artist": "Elvis Presley With The Jordanaires",
+            "song": "Can't Help Falling In Love"
+            },
+            {
+            "position": 6,
+            "artist": "Neil Sedaka",
+            "song": "Happy Birthday, Sweet Sixteen"
+            },
+            {
+            "position": 7,
+            "artist": "James Darren",
+            "song": "Goodbye Cruel World"
+            },
+            {
+            "position": 8,
+            "artist": "Leroy Van Dyke",
+            "song": "Walk On By"
+            },
+            {
+            "position": 9,
+            "artist": "The Lettermen",
+            "song": "When I Fall In Love"
+            },
+            {
+            "position": 10,
+            "artist": "Ray Charles and his Orchestra",
+            "song": "Unchain My Heart"
+            },
+            {
+            "position": 11,
+            "artist": "Connie Francis",
+            "song": "When The Boy In Your Arms (Is The Boy In Your Heart)"
+            },
+            {
+            "position": 12,
+            "artist": "Bing Crosby",
+            "song": "White Christmas"
+            },
+            {
+            "position": 13,
+            "artist": "The Marvelettes",
+            "song": "Please Mr. Postman"
+            },
+            {
+            "position": 14,
+            "artist": "The Angels",
+            "song": "'Til"
+            },
+            {
+            "position": 15,
+            "artist": "Barbara George",
+            "song": "I Know (You Don't Love Me No More)"
+            },
+            {
+            "position": 16,
+            "artist": "Linda Scott",
+            "song": "I Don't Know Why"
+            },
+            {
+            "position": 17,
+            "artist": "Sandy Nelson",
+            "song": "Let There Be Drums"
+            },
+            {
+            "position": 18,
+            "artist": "Brook Benton",
+            "song": "Revenge"
+            },
+            {
+            "position": 19,
+            "artist": "Henry Mancini And His Orchestra",
+            "song": "Moon River"
+            },
+            {
+            "position": 20,
+            "artist": "The Crystals",
+            "song": "There's No Other (Like My Baby)"
+            },
+            {
+            "position": 21,
+            "artist": "Bobby Rydell/Chubby Checker",
+            "song": "Jingle Bell Rock"
+            },
+            {
+            "position": 22,
+            "artist": "The Harry Simeone Chorale",
+            "song": "The Little Drummer Boy"
+            },
+            {
+            "position": 23,
+            "artist": "Elvis Presley With The Jordanaires",
+            "song": "Rock-A-Hula Baby"
+            },
+            {
+            "position": 24,
+            "artist": "Gene Pitney",
+            "song": "Town Without Pity"
+            },
+            {
+            "position": 25,
+            "artist": "The Impressions",
+            "song": "Gypsy Woman"
+            },
+            {
+            "position": 26,
+            "artist": "Connie Francis",
+            "song": "Baby's First Christmas"
+            },
+            {
+            "position": 27,
+            "artist": "Jerry Butler",
+            "song": "Moon River"
+            },
+            {
+            "position": 28,
+            "artist": "Burl Ives",
+            "song": "A Little Bitty Tear"
+            },
+            {
+            "position": 29,
+            "artist": "James Ray",
+            "song": "If You Gotta Make A Fool Of Somebody"
+            },
+            {
+            "position": 30,
+            "artist": "Dion",
+            "song": "The Wanderer"
+            },
+            {
+            "position": 31,
+            "artist": "Jimmy Elledge",
+            "song": "Funny How Time Slips Away"
+            },
+            {
+            "position": 32,
+            "artist": "The Highwaymen",
+            "song": "Cotton Fields"
+            },
+            {
+            "position": 33,
+            "artist": "Fats Domino",
+            "song": "Jambalaya (On The Bayou)"
+            },
+            {
+            "position": 34,
+            "artist": "The Shirelles",
+            "song": "Baby It's You"
+            },
+            {
+            "position": 35,
+            "artist": "Kenny Dino",
+            "song": "Your Ma Said You Cried In Your Sleep Last Night"
+            },
+            {
+            "position": 36,
+            "artist": "Ferrante & Teicher",
+            "song": "Tonight"
+            },
+            {
+            "position": 37,
+            "artist": "Pat Boone",
+            "song": "Johnny Will"
+            },
+            {
+            "position": 38,
+            "artist": "Del Shannon",
+            "song": "Hey! Little Girl"
+            },
+            {
+            "position": 39,
+            "artist": "David Seville And The Chipmunks",
+            "song": "The Chipmunk Song (Christmas Don't Be Late)"
+            },
+            {
+            "position": 40,
+            "artist": "Jimmy Dean",
+            "song": "Big Bad John"
+            },
+            {
+            "position": 41,
+            "artist": "Bobby Helms",
+            "song": "Jingle Bell Rock"
+            },
+            {
+            "position": 42,
+            "artist": "Ike & Tina Turner",
+            "song": "Poor Fool"
+            },
+            {
+            "position": 43,
+            "artist": "The Chantels",
+            "song": "Well, I Told You"
+            },
+            {
+            "position": 44,
+            "artist": "Phil McLean",
+            "song": "Small Sad Sam"
+            },
+            {
+            "position": 45,
+            "artist": "Vic Dana",
+            "song": "Little Altar Boy"
+            },
+            {
+            "position": 46,
+            "artist": "Sue Thompson",
+            "song": "Norman"
+            },
+            {
+            "position": 47,
+            "artist": "David Seville And The Chipmunks",
+            "song": "Rudolph The Red Nosed Reindeer"
+            },
+            {
+            "position": 48,
+            "artist": "Gary U.S. Bonds",
+            "song": "Dear Lady Twist"
+            },
+            {
+            "position": 49,
+            "artist": "Solomon Burke",
+            "song": "Just Out Of Reach (Of My Two Open Arms)"
+            },
+            {
+            "position": 50,
+            "artist": "Brenda Lee",
+            "song": "Rockin' Around The Christmas Tree"
+            },
+            {
+            "position": 51,
+            "artist": "Bobby Bland",
+            "song": "Turn On Your Love Light"
+            },
+            {
+            "position": 52,
+            "artist": "Bill Black's Combo",
+            "song": "Twist-Her"
+            },
+            {
+            "position": 53,
+            "artist": "Bobby Darin",
+            "song": "Irresistible You"
+            },
+            {
+            "position": 54,
+            "artist": "Johnny Tillotson",
+            "song": "Dreamy Eyes"
+            },
+            {
+            "position": 55,
+            "artist": "Jimmy Dean",
+            "song": "Dear Ivan"
+            },
+            {
+            "position": 56,
+            "artist": "The Highwaymen",
+            "song": "The Gypsy Rover"
+            },
+            {
+            "position": 57,
+            "artist": "Si Zentner And His Orchestra",
+            "song": "Up A Lazy River"
+            },
+            {
+            "position": 58,
+            "artist": "Frank Sinatra",
+            "song": "Pocketful Of Miracles"
+            },
+            {
+            "position": 59,
+            "artist": "Frank Slay And His Orchestra",
+            "song": "Flying Circle"
+            },
+            {
+            "position": 60,
+            "artist": "Lee Dorsey",
+            "song": "Do-Re-Mi"
+            },
+            {
+            "position": 61,
+            "artist": "Roger Williams",
+            "song": "Maria"
+            },
+            {
+            "position": 62,
+            "artist": "Gladys Knight And The Pips",
+            "song": "Letter Full Of Tears"
+            },
+            {
+            "position": 63,
+            "artist": "Bobby Darin",
+            "song": "Multiplication"
+            },
+            {
+            "position": 64,
+            "artist": "Ral Donner",
+            "song": "She's Everything (I Wanted You To Be)"
+            },
+            {
+            "position": 65,
+            "artist": "Chubby Checker",
+            "song": "Let's Twist Again"
+            },
+            {
+            "position": 66,
+            "artist": "Glen Campbell",
+            "song": "Turn Around, Look At Me"
+            },
+            {
+            "position": 67,
+            "artist": "Jimmy McCracklin",
+            "song": "Just Got To Know"
+            },
+            {
+            "position": 68,
+            "artist": "Brenda Lee",
+            "song": "Fool #1"
+            },
+            {
+            "position": 69,
+            "artist": "Bobby Vee",
+            "song": "Walkin' With My Angel"
+            },
+            {
+            "position": 70,
+            "artist": "Sims Twins",
+            "song": "Soothe Me"
+            },
+            {
+            "position": 71,
+            "artist": "The Showmen",
+            "song": "It Will Stand"
+            },
+            {
+            "position": 72,
+            "artist": "The G-Clefs",
+            "song": "I Understand (Just How You Feel)"
+            },
+            {
+            "position": 73,
+            "artist": "David Seville And The Chipmunks",
+            "song": "Alvin's Harmonica"
+            },
+            {
+            "position": 74,
+            "artist": "The Dave Brubeck Quartet",
+            "song": "Unsquare Dance"
+            },
+            {
+            "position": 75,
+            "artist": "John D. Loudermilk",
+            "song": "Language Of Love"
+            },
+            {
+            "position": 76,
+            "artist": "Charles Brown",
+            "song": "Please Come Home For Christmas"
+            },
+            {
+            "position": 77,
+            "artist": "Dick Dale and The Del-Tones",
+            "song": "Let's Go Trippin'"
+            },
+            {
+            "position": 78,
+            "artist": "Ace Cannon",
+            "song": "Tuff"
+            },
+            {
+            "position": 79,
+            "artist": "Dion",
+            "song": "The Majestic"
+            },
+            {
+            "position": 80,
+            "artist": "Ray Peterson",
+            "song": "I Could Have Loved You So Well"
+            },
+            {
+            "position": 81,
+            "artist": "Danny & The Juniors with Freddy Cannon",
+            "song": "Twistin' All Night Long"
+            },
+            {
+            "position": 82,
+            "artist": "Patti Page",
+            "song": "Go On Home"
+            },
+            {
+            "position": 83,
+            "artist": "The Corsairs ",
+            "song": "Smoky Places"
+            },
+            {
+            "position": 84,
+            "artist": "Troy Shondell",
+            "song": "Tears From An Angel"
+            },
+            {
+            "position": 85,
+            "artist": "Anthony Newley",
+            "song": "Pop Goes The Weasel"
+            },
+            {
+            "position": 86,
+            "artist": "James Brown And The Famous Flames",
+            "song": "Lost Someone"
+            },
+            {
+            "position": 87,
+            "artist": "The Drifters",
+            "song": "Room Full Of Tears"
+            },
+            {
+            "position": 88,
+            "artist": "Johnny Mathis",
+            "song": "Maria"
+            },
+            {
+            "position": 89,
+            "artist": "The Belmonts",
+            "song": "I Need Some One"
+            },
+            {
+            "position": 90,
+            "artist": "Linda Scott",
+            "song": "It's All Because"
+            },
+            {
+            "position": 91,
+            "artist": "Patsy Cline",
+            "song": "Crazy"
+            },
+            {
+            "position": 92,
+            "artist": "Sleepy King",
+            "song": "Pushin' Your Luck"
+            },
+            {
+            "position": 93,
+            "artist": "Ernie Freeman",
+            "song": "The Twist"
+            },
+            {
+            "position": 94,
+            "artist": "Ferlin Husky",
+            "song": "The Waltz You Saved For Me"
+            },
+            {
+            "position": 95,
+            "artist": "The Sensations",
+            "song": "Let Me In"
+            },
+            {
+            "position": 96,
+            "artist": "The Jack Halloran Singers",
+            "song": "The Little Drummer Boy"
+            },
+            {
+            "position": 97,
+            "artist": "Sheb Wooley",
+            "song": "That's My Pa"
+            },
+            {
+            "position": 98,
+            "artist": "Jack Eubanks",
+            "song": "Searching"
+            },
+            {
+            "position": 99,
+            "artist": "Tico And The Triumphs",
+            "song": "Motorcycle"
+            },
+            {
+            "position": 100,
+            "artist": "Don Shirley",
+            "song": "Drown In My Own Tears"
+            }
+            ],
+            "id": "5ff177b26a6c482167c47189"
+        }
+    ]
+}

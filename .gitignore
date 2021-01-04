@@ -1,3 +1,5 @@
-./wrong-generation-frontend/node_modules
-./wrong-generation-backend/node_modules
-./wrong-generation-backend/.env
+/wrong-generation-frontend/node_modules
+/wrong-generation-backend/node_modules
+/wrong-generation-backend/.env
+/wrong-generation-utilities/html
+/wrong-generation-utilities/billboard.db

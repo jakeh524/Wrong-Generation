@@ -1,1 +1,1 @@
-GET http://localhost:3001/api/charts/
+GET http://localhost:3001/api/charts?chart_date=2011-01-01&length=20

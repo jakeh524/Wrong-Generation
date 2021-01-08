@@ -1,13 +1,148 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500&display=swap');
+
+html, body {
+  height: 100%;
+  min-height: 100%;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+body {
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-height: 100%;
 }
+
+.content {
+  flex: 1 0 auto;
+}
+
+.footer {
+  flex-shrink: 0;
+  font-size: 16px;
+  text-align: center;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.searchButton {
+  background-color:#b47e99;
+	border-radius:10px;
+	border:1px solid #b47e99;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-size: 18px;
+	padding:8px 18px;
+	text-shadow:0px 1px 0px #000000;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.searchButton:hover {
+  background-color: #8d5370;
+}
+
+.searchButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.tableStyle {
+  margin: 0px auto;
+  width: 80%;
+  border-collapse: collapse;
+  font-size: 16px;
+  min-width: 400px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+  text-align: left;
+  border: thin #dddddd;
+}
+
+.tableStyle thead tr{
+  background-color: #d2b2c2;
+  text-align: left;
+}
+
+.tableStyle th {
+  padding: 10px 15px;
+}
+.tableStyle td {
+  padding: 0px 15px;
+}
+
+.tableStyle tbody tr {
+  border-bottom: thin #dddddd;
+}
+
+.tableStyle tbody tr:nth-of-type(even) {
+  background-color: #f3f3f3;
+}
+
+.tableStyle tbody tr:last-of-type {
+  border-bottom: 10px solid #dbc2cf;
+}
+
+a:link, a:visited {
+  text-decoration: underline;
+  color: #8d5370;
+  
+}
+
+a:hover, a:active {
+  text-decoration: none;
+  color: #8d5370;
+}
+
+.inputFieldStyle {
+  font-size: 20px;
+  text-align: center;
+}
+
+.shortInputFieldStyle {
+   font-size: 20px;
+   width: 40px;
+   text-align: center;
+   margin-right: 10px;
+   margin-left: 10px;
+   padding: 4px 4px;
+   border: 0;
+   border-bottom: 1px solid black;
+   border-radius: 2px 2px 0px 0px;
+   background-color: #f3f3f3;
+}
+
+.yearInputFieldStyle {
+   font-size: 20px;
+   width: 60px;
+   text-align: center;
+   margin-right: 40px;
+   margin-left: 10px;
+   padding: 4px 6px;
+   border: 0;
+   border-bottom: 1px solid black;
+   border-radius: 2px 2px 0px 0px;
+   background-color: #f3f3f3;
+}
+
+.lengthInputFieldStyle {
+  font-size: 20px;
+  width: 60px;
+  text-align: center;
+  margin-left: 10px;
+  padding: 4px 6px;
+  border: 0;
+  border-bottom: 1px solid black;
+  border-radius: 2px 2px 0px 0px;
+  background-color: #f3f3f3;
+}
+
+.shortInputFieldStyle:focus, .yearInputFieldStyle:focus, .lengthInputFieldStyle:focus {
+  outline: none !important;
+}
+
+.shortInputFieldStyle:focus::placeholder, .yearInputFieldStyle:focus::placeholder, .lengthInputFieldStyle:focus::placeholder {
+  color: transparent;
+}
+
